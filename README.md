@@ -1,2 +1,4 @@
 # hello-world
-My first project ala 'Hellow World'
+My first project ala 'Hello World'
+
+Edit:  I fixed the spelling mistake
